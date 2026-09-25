@@ -1,0 +1,5 @@
+[Clause 14 - Payment] The Contractor shall submit an Interim Payment Application monthly. The Engineer shall certify within 28 days. Retention of 10% shall be deducted from each certificate until the retention reaches 5% of the Contract Price.
+[Clause 17 - Defects] The Defects Liability Period shall be 365 days from the Taking-Over Certificate.
+[Clause 20 - Delay Damages] Delay damages are 0.1% of the Contract Price per day, capped at 10% of the Contract Price.
+[BOQ Item 03.02.01] C40 reinforced concrete in raft foundation, 1,250 m3 at AED 780 per m3.
+[BOQ Item 03.03.05] Reinforcement steel Grade 460B, 185 tonnes at AED 3,450 per tonne.
